@@ -1,0 +1,13 @@
+	{
+	   		   "language label": "Choose a language",
+	   	    "live label": "Number of lives left", 
+	   	    "title label": "Hangman Game", 
+	   	    "part label" : "Part number", 
+	   	    "letter label": "Enter a letter", 
+	   	    "win label": "You win", 
+	   	    "lose label": "You lose", 
+	   	    "new part label": "Start a new part ?", 
+	   	    "yes label": "Yes", 
+	   	    "no label": "No", 
+	   	    "new entry label": "Bad entry, try again."
+	   	}

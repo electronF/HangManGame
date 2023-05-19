@@ -1,0 +1,3 @@
+title=HangManGame
+author=LaFabriq
+orientation=landscape

@@ -1,0 +1,13 @@
+{
+	   	    "language label": "Choisissez une langue", 
+	   	    "live label": "Nombre de vie restantes", 
+	   	    "title label": "Jeu du pendu", 
+	   	    "part label" : "Partie numéro", 
+	   	    "letter label": "Entrer une lettre", 
+	   	    "win label": "Vous avez gagné", 
+	   	    "lose label": "Vous avez perdu", 
+	   	    "new part label": "Démarrer une nouvelle partie ?", 
+	   	    "yes label": "Oui", 
+	   	    "no label": "Non", 
+	   	    "new entry label": "Mauvaise valeur entrée, essayez à nouveau"
+}
